@@ -1,0 +1,13 @@
+
+
+typedef unsigned char       BYTE;
+typedef int                 BOOL;
+typedef unsigned long       DWORD;
+//typedef __int64				LONGLONG;
+typedef unsigned short      WORD;
+typedef char*				LPSTR;
+typedef const char*			LPCSTR;
+
+$cfile "../GameLuaAPI/GameLuaAPI.h"
+
+ 

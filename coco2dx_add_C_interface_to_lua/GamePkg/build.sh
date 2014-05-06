@@ -1,0 +1,1 @@
+./tolua++ -L basic.lua -o "LuaRequireSample.cpp" LuaMainAPI.pkg
