@@ -8,4 +8,4 @@ Mobile Game Development Of Notes
 
 ## About
 
-* [Rect`s Bolg](www.shadowkong.com)
+* [Rect`s Bolg](http://www.shadowkong.com)
