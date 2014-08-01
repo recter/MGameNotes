@@ -14,6 +14,7 @@ Mobile Game Development Of Notes
 7. [让模块接口化](http://shadowkong.com/archives/1781)
 8. [2dx增加GUI控件](http://shadowkong.com/archives/1785)
 9. [实体对象的设计(一)](http://shadowkong.com/archives/1808)
+10. [2dx给Widget添加CCNode](http://shadowkong.com/archives/1812)
 
 ## About
 
